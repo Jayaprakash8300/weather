@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://png.pngtree.com/background/20220716/original/pngtree-cartoon-black-atmospheric-weather-forecast-illustration-background-picture-image_1640761.jpg");
+}
+h1{ 
+    text-align: center;
+    color:yellowgreen;
+    height: 50px;
+}
+#rest{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 40%;
+}
+.card{
+    text-align: center;
+    font-weight: bold;
+    /* width:300px;
+    height:500px; */
+    margin:20px 0;
+}
+/* 
+.card-body{
+    background-color: lightslategray;
+} */
